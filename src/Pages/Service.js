@@ -5,7 +5,7 @@ class Service extends Component {
   render() {
     return (
       <div>
-          <h1>Service</h1>
+          <h1>Service Page</h1>
       </div>
     );
   }
