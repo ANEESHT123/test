@@ -782,7 +782,7 @@ export default function SimpleTabs() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image = "data:image/png;base64,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"
+          image = "https://img.pngio.com/twitter-logo-logo-brands-for-free-hd-3d-twitter-logo-hd-1600_1067.jpg"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -791,6 +791,7 @@ export default function SimpleTabs() {
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
            Be one step ahead over competition by increasing your Twitter followers & friends.
+           Branding your business 
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -926,6 +927,7 @@ export default function SimpleTabs() {
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
            Get the best use of your adwords and increase your online reach of your website.
+           Google Ads to help grow their business.
           </Typography>
         </CardContent>
       </CardActionArea>
