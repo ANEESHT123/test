@@ -1,18 +1,15 @@
 import React, { Component } from 'react';
-import Header from '../components/Header/Header'
 import Slide from '../components/Slide/Slide'
 import Banner from '../components/banner/banner';
 import Cards from '../components/cards/cards';
 import Work from '../components/work/work';
 import Tech from '../components/Tech/Tech'
+import TabPanel from '../components/Tab/Tab'
 
 class Home extends Component {
   render() {
     return (
       <div>
-      <div >
-      <Header ></Header>
-       </div>
       <div >
         <Slide></Slide>
       </div>
@@ -37,9 +34,13 @@ class Home extends Component {
         <Work></Work>
       
       </div>
+       <div>
+        <TabPanel></TabPanel>
+      </div>
       <div>
         <Tech></Tech>
       </div>
+     
       </div>
      
     );

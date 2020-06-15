@@ -22,8 +22,8 @@ class Slide extends Component {
         </li>
     </ul>
 
-    <a  class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
-    <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+    <a  className="uk-position-center-left uk-position-small uk-hidden-hover" href="left" uk-slidenav-previous uk-slideshow-item="previous"  uk-icon="icon:  chevron-double-left; ratio: 3"></a>
+    <a className="uk-position-center-right uk-position-small uk-hidden-hover" href="right" uk-slidenav-next uk-slideshow-item="next" uk-icon="icon:  chevron-double-right; ratio: 3"></a>
 
 </div>
 </div>
