@@ -6,9 +6,8 @@ class Service extends Component {
     return (
       <div>
     
-          <h1> Welcome To the Service Page</h1>
+          <h1> New Web Dev Work</h1>
 
-          <h1>Welcome to Service Page.</h1>
 
       </div>
     );
