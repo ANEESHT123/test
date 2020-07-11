@@ -9,7 +9,7 @@ class Tech extends Component {
     <div class="uk-container">
 
         <div class="uk-panel uk-light uk-margin-medium">
-            <h3>TechKnocks Values</h3>
+            <h3>WebSoulLabs Values</h3>
         </div>
 
         <div class="uk-grid-match uk-child-width-expand@m" uk-grid="true">

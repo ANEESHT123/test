@@ -11,9 +11,9 @@ class Footer extends Component {
 
         <div class="uk-grid-match uk-child-width-1-4@m" uk-grid="true">
             <div>
-                 <h1>TechKnocks</h1>
+                 <h1>WebSoulLabs</h1>
 
-                <p>TechKnocks is an international web & mobile app development company based in India. Also, we provide premium IT Services related to mobile app, web, enterprise and other trending technology to business globally.
+                <p>WebSoulLabs is an international web & mobile app development company based in India. Also, we provide premium IT Services related to mobile app, web, enterprise and other trending technology to business globally.
 
 </p>
             </div>
@@ -60,7 +60,7 @@ class Footer extends Component {
 </li>
             <li>Phone: +91 8848430565
 </li>
-            <li>Email: techknocks@gmail.com
+            <li>Email: websoullabs@gmail.com
 </li>
         </ul>
 
