@@ -13,7 +13,7 @@ class Footer extends Component {
             <div>
                  <h1>WebSoulLabs</h1>
 
-                <p>WebSoulLabs is an international web & mobile app development company based in India. Also, we provide premium IT Services related to mobile app, web, enterprise and other trending technology to business globally.
+                <p>Websoullabs is an international web & mobile app development company based in India. Also, we provide premium IT Services related to mobile app, web, enterprise and other trending technology to business globally.
 
 </p>
             </div>
